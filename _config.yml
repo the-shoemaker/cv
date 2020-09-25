@@ -1,0 +1,74 @@
+# Site
+repository: caillou/cv
+favicon: images/favicon.ico
+
+# Personal info
+name: Pierre Spring
+title: Full Stack Node.js and Frontend Developer
+email: pierre.spring@caillou.ch
+# website: www.caillou.ch
+
+# Social links
+twitter_username: shvi
+github_username: caillou
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Pierre. I am a full stack web developer with 15 years of experience, based in Zürich, Switzerland. I have worked with a range of different languages and frameworks and ultimately fell in love with <mark>TypeScript</mark>. In my career I have aquired experience in leading teams, product development, agile methodologies, building companies, working with clients and customers.
+
+  I love to share my passion for <mark>Clean Code</mark> and <mark>Maintainable CSS</mark>.  I am currently mostly fluent with the following technologies:
+
+  <mark>TypeScript</mark>
+  <mark>JavaScript</mark>
+  <mark>React & Redux</mark>
+  <mark>Vue</mark>
+  <mark>Angular</mark>
+  <mark>Jest</mark>
+  <mark>Express</mark>
+  <mark>GraphQL</mark>
+  <mark>PostgreSQL</mark>
+  <mark>SASS</mark>
+  <mark>Docker</mark>
+
+  Most of all, I believe that clean and maintainable code is a side-effect of continuously evolving and adapting the <mark>development process</mark>. Simple tools like code reviews, pair programming, git flow, continuous integration, continuous deployment, and automated testing are often easy to implement and have a tremendous effect on long-term productivity of a team.
+
+# Projects Section
+projects_title: When I'm Not Programming
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: When I'm Not Programming
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

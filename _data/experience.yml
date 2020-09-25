@@ -1,0 +1,52 @@
+- layout: left
+  company: Freelance
+  job_title: Node.js and Frontend Developer
+  dates: December 2013 - Present
+  quote: >
+    Incorporate teams and help with the transition to modern web application development.
+  description: | # this will include new lines to allow paragraphs
+    <mark>Republik</mark> Maintain the Node.js backend of the publication tool for an independent Swiss online newspaper and helped kick-start the transition to TypeScript. I learned a lot about the tradeoffs necessary to deploy a functioning tool in a short amount of time with a small team, which aims for 100% uptime. <a href="https://republik.ch">republik.ch</a>
+
+    <mark>SBB</mark> Worked with a team of frontend developers on the relaunch of <a href="http://sbb.ch">sbb.ch</a> over the period of 3 years. While bringing in my experience in writing maintainable JS and CSS, I learned a lot about Accessibility and Analytics on this job. <a href="https://sbb.ch">sbb.ch</a>
+
+    <mark>Neue Zürcher Zeitung & Livingdocs</mark> I joinde the team that worked on a full-stack publication tool, written in Node.js and Angular. While bringing in my experience with writing single page application, I learned a lot about unit tests, continuous integration and deployment, authoring NPM libraries on this job. <a href="https://nzz.ch">nzz.ch</a>
+
+    <mark>Credit Suisse</mark> I joined the team that worked on a redesing of the website. I brought in my knowledge of maintainable CSS and mordern frontend development and learned a lot about working in a big corporation. <a href="https://www.credit-suisse.ch/">credit-suisse.ch</a>
+
+- layout: left
+  company: Nelmio AG
+  job_title: Partner, Lead Fontend Developer
+  dates: May 2011 - December 2013
+  quote: >
+    Bootstrapped a fully-remote web agency specialized on single page applications.
+  description: | # this will include new lines to allow paragraphs
+    Together with <a href="https://github.com/Seldaek">Jordi Boggiano</a> I bootstrapped a fully remote web agency. We specialized in single page applications, with Jordi taking the lead in backend and open source development, while I took the lead in frontend development.
+
+    Additionally I helped our clients with product development and took care of our sales, hiring, and administration. Some of the clients we worked with were:
+
+      <mark>local.ch</mark>
+      <mark>Züricher Kantonalbank</mark>
+      <mark>colibird.ch</mark>
+      <mark>Unic</mark>
+      <mark>Ginetta</mark>
+      <mark>Swiss</mark>
+
+    Both Jordi and I spoke at many conferences during these years, which is how we met most of the talented developers we hired.
+
+    While the company quickly grew both in size and recognition, my role shifted mostly to admistrative tasks. In order to focus more on development and system arcitecture, I gradually transitioned to freelance development, completely leaving my admistrative tasks at the end of 2013.
+
+- layout: left
+  company: Liip AG
+  link: https://liip.ch
+  job_title: Full Stack Web Developer
+  dates: January 2005 - April 2011
+  quote: >
+    Early years - from full stack to frontend.
+  description: | # this will include new lines to allow paragraphs
+    I joined Mediagonal AG in its very early years. This company in Fribourg later fusioned with the Zurich based bitflux GmbH to become Liip AG.
+
+    At that time the web was booming. At Liip, we believed in the Sematic Web, embraced XHTML, were happy to see it replaced by HTML5, went from administrating servers to automated dev ops. As browsers and computers become powerful enough for serious frontend development, I started concentrating more and more on frontend. After reading Douglas Crockford's <a href="https://www.oreilly.com/library/view/javascript-the-good/9780596517748/">JavaScript: The Good Parts</a> and understanding the functional nature of JavaScript while falling in love with its prototypal inheritance, my path was sealed.
+
+    My years at Liip were probably the most formative of my life. We worked crazy hours and had a tremendous amount of fun. We were constantly ahead of the curve, used clever tricks to design responsive pages before the browsers offered the tools necessary for it. Delivered standard conform pages using progressive enhancement. And when the iPhone sealed the faith of Flash, we were more than prepared to take over the single page applications market.
+
+    After 6 years at Liip, the company had grown form 5 employees to 60. I started to miss the craze of growing a small company. I left Liip to create my own agency.
