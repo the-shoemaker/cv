@@ -11,15 +11,82 @@
 p.quote {
   font-size: 1.6rem;
   font-style: normal;
+  font-weight: 300;
+  margin-bottom: 3rem;
+  padding: 0;
 }
 
 @media screen and (min-width: 767px) {
   p.quote {
     text-align: left;
     padding-left: 0;
-    padding-right: 0;
-    padding-top: 0;
     font-size: 2.5rem;
+    // margin-bottom: 2.5rem;
+  }
+}
+
+.layout .details h4 {
+  line-height: 1.5;
+  margin: 0 0 0.75rem !important;
+  font-weight: 300;
+}
+
+.details {
+  margin-bottom: 3rem;
+}
+
+
+@media screen and (min-width: 767px) {
+  h3 {
+    text-align: left;
+  }
+}
+
+h3, h1 {
+  border-bottom: none;
+  font-size: 4rem;
+  font-weight: 200;
+  margin: 4rem 0 6rem;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.header-left, .header-right {
+  margin-top: 0;
+}
+
+.header-contianer {
+  padding-top: 70px;
+}
+
+.header-right p {
+  &, & a {
+    font-weight: 300;
+    font-size: 2rem;
+  }
+  a {
+    text-decoration: none;
+  border-bottom:   1px solid transparent;
+  transition:      text-shadow 0.3s;
+  text-shadow: 0px 0px 0px transparent;
+
+  }
+  a:hover {
+    text-shadow: 1px 1px 0 rgba(255,0,255,1);
   }
 
+}
+
+.layout {
+  margin-bottom: 6rem;
+}
+
+p {
+  margin: 0 0 2rem;
+}
+
+p {
+  text-align: left;
 }
