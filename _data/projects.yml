@@ -9,13 +9,13 @@
     Together with <a href="https://github.com/Seldaek">Jordi</a> we organized a monthly meetup for JavaScript developers. Being very passionate about JavaScript, this helped us and others keep up with its evolution.
 - layout: left
   name: SwissJS Conference
-  link: swissjs.ch
+  # link: swissjs.ch
   dates: 2012 - 2015
   # github: sproogen/resume-theme
   quote: >
     A JavaScript community event for and by locals.
   description: | # this will include new lines to allow paragraphs
-    The next obvious step after organizing a local meetup was a national community event. We organized the SwissJS Conference in the years 2012, 2014, and 2015.
+    The next obvious step after organizing a local meetup was a national community event. We organized the <a href="http://swissjs.ch">SwissJS Conference</a> in the years 2012, 2014, and 2015.
 
     While knowledge transfer was an obvious part of the event, the main focus was to meet JS developers from all over Switzerland. The ticket prices were as affordable as CHF 25, in order not to leave anyone behind.
 
