@@ -1,41 +1,9 @@
 - layout: left
-  name: JSZurich
-  dates: 2011 - 2015
-  # link: swissjs.ch
+  name: <mark>todo</mark>
+  # dates: 2011 - 2015
+  # link:
   # github: sproogen/resume-theme
   quote: >
-    A monthly JavaScript meetup.
+    <mark>todo</mark> quote
   description: | # this will include new lines to allow paragraphs
-    Together with <a href="https://github.com/Seldaek">Jordi</a> we organized a monthly meetup for JavaScript developers. Being very passionate about JavaScript, this helped us and others keep up with its evolution.
-- layout: left
-  name: SwissJS Conference
-  # link: swissjs.ch
-  dates: 2012 - 2015
-  # github: sproogen/resume-theme
-  quote: >
-    A JavaScript community event for and by locals.
-  description: | # this will include new lines to allow paragraphs
-    The next obvious step after organizing a local meetup was a national community event. We organized the <a href="http://swissjs.ch">SwissJS Conference</a> in the years 2012, 2014, and 2015.
-
-    While knowledge transfer was an obvious part of the event, the main focus was to meet JS developers from all over Switzerland. The ticket prices were as affordable as CHF 25, in order not to leave anyone behind.
-
-    Organizing these conferences, I learned about the lack of diversity in our community, realized that I was pobably part of this problem and how we, as a community, could mitigate these problems. To this day, this is something I personally work on.
-- layout: left
-  name: Public Speaking
-  # link: swissjs.ch
-  # github: sproogen/resume-theme
-  quote: >
-    Sharing my passion for the open web.
-  description: | # this will include new lines to allow paragraphs
-    In the years 2011 - 2015 I spoke at various conferences in Europe, mostly with a focus on performance, maintainable CSS and best practives in JavaScript development.
-
-- layout: left
-  name: Hobbies
-  # link: swissjs.ch
-  # github: sproogen/resume-theme
-  quote: >
-    The web is not everything.
-  description: | # this will include new lines to allow paragraphs
-    <mark>Vintage Computers</mark> I recently aquired an <a href="http://oldcomputers.net/ibm5155.html">IBM 5155</a> with the aim to learn about operating systems. The plan is to install Minix on this machine and write a driver for the <a href="https://www.bluelavasystems.com/xt-ide/">XT IDE</a> card.
-
-    <mark>Family</mark> I am the father of 4 kids and spend most of my free time with my children.
+    <mark>todo</mark>

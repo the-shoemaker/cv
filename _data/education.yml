@@ -1,8 +1,6 @@
 - layout: left
-  name: University of Fribourg
+  name: todo
   dates: 2000 - 2006
-  qualification: BSc Computer Science
+  qualification: Secundarstufe
   description: | # this will include new lines to allow paragraphs
-    My time at the University of Fribourg provided me with a good theoretical foundation in computer science and gave me a toolset I still regularly find myself using.
-
-    In parallel I discovered the web, which took me by surprise. Combining the theoretical knowledge from the classes with the down-to-earth experience in the early days of the web was a fantastic experience. While most of my student colleagues pursued a masters degree, I chose to go into web development full-time. A decision I never regretted.
+     <mark>todo</mark> education section
