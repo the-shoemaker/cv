@@ -1,21 +1,21 @@
 # Site
-repository: caillou/cv
+repository: the-shoemaker/cv
 favicon: images/favicon.ico
 
 # Personal info
-name: Pierre Spring
-title: Full Stack Node.js and Frontend Developer
-email: pierre.spring@caillou.ch
-# website: www.caillou.ch
+name: Dan Schumacher
+title: Aspiring Full Stack Web Developer
+email: s.dan.jonas@gmail.com
+# website: www.the-shoemaker.ch
 
 # Social links
-twitter_username: shvi
-github_username: caillou
+# twitter_username: jekyll
+github_username: the-shoemaker
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: chillwildlife
-linkedin_username: pierrespring
+instagram_username: DanTheImageMan
+# linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
