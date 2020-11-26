@@ -35,7 +35,8 @@ about_content: | # this will include new lines to allow paragraphs
   for more than just surfing the web.
 
   After my first steps with [Scratch](https://scratch.mit.edu/) I taught myself
-  rudimentary programming skills, mostly in Python.
+  rudimentary programming skills. Most notably I wrote a small multiplayer
+  game in Python3: [the-shoemaker/calculus-game](https://github.com/the-shoemaker/calculus-game).
 
   I quickly realized that programming was more than a hobby to me. I want to do
   this professionally.
