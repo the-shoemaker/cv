@@ -25,7 +25,20 @@ instagram_username: DanTheImageMan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>todo</mark> about section
+  My name is Dan Schumacher.
+
+  I currently attend my last year of secondary school and I am eager to
+  get started with my professional life.
+
+  Over the last couple of years my interest in technology has grown. It started
+  with small DIY soldering projects, which quickly lead to using my computer
+  for more than just surfing the web.
+
+  After my first steps with [Scratch](https://scratch.mit.edu/) I taught myself
+  rudimentary programming skills, mostly in Python.
+
+  I quickly realized that programming was more than a hobby to me. I want to do
+  this professionally.
 # Projects Section
 projects_title: Hobbies
 
