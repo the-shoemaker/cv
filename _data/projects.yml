@@ -1,9 +1,38 @@
 - layout: left
-  name: <mark>todo</mark>
+  name: <mark>Photography</mark>
   # dates: 2011 - 2015
   # link:
   # github: sproogen/resume-theme
   quote: >
-    <mark>todo</mark> quote
+    Exploring the world with my Cannon EOS M10
   description: | # this will include new lines to allow paragraphs
-    <mark>todo</mark>
+    I love to capture the world aground me while taking long strolls
+    through the city and nature.
+
+    You can find some of these impressions on my Instagram account: [DanTheImageMan](https://www.instagram.com/DanTheImageMan)
+
+- layout: left
+  name: <mark>Cooking</mark>
+  # dates: 2011 - 2015
+  # link:
+  # github: sproogen/resume-theme
+  quote: >
+    Embracing the vegetarain life-style
+  description: | # this will include new lines to allow paragraphs
+    After becoming a vegetarain two years ago, I became interest in cooking.
+
+    I prepare a weekly supper for my family, and love to experiment with new
+    ingredients and recipes.
+
+- layout: left
+  name: <mark>DIY and Tinkering</mark>
+  # dates: 2011 - 2015
+  # link:
+  # github: sproogen/resume-theme
+  quote: >
+    Broken isn't a permanent state.<br>It's a challenge!
+  description: | # this will include new lines to allow paragraphs
+    I love to tinker and solder. Mostly small projects. When I find a broken device,
+    I find a new mission.
+
+    Screwdrivers and solder-iron are my definition of fun!

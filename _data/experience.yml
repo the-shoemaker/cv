@@ -1,8 +1,28 @@
 - layout: left
-  company: <mark>todo</mark>
-  job_title: <mark>todo</mark>
-  dates: <mark>todo</mark>
+  # company: <strong>todo</strong>
+  # job_title: German
+  # dates: <strong>todo</strong>
   quote: >
-    <mark>todo</mark> quote
-  description: | # this will include new lines to allow paragraphs
-    <mark>todo</mark> description
+    <strong>German</strong>
+
+    native language
+  # description: | # this will include new lines to allow paragraphs
+- layout: left
+  # company: <strong>todo</strong>
+  # job_title: English
+  # dates: <strong>todo</strong>
+  quote: >
+    <strong>English</strong>
+
+    Good oral and written communication skills.<br>9 years at school.
+  # description: | # this will include new lines to allow paragraphs
+- layout: left
+  # company: <strong>todo</strong>
+  # job_title: French
+  # dates: <strong>todo</strong>
+  quote: >
+    <strong>French</strong>
+
+    Average oral and written communication skills.<br>9 years at school.
+
+  # description: | # this will include new lines to allow paragraphs

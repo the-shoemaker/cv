@@ -1,6 +1,21 @@
 - layout: left
-  name: todo
-  dates: 2000 - 2006
-  qualification: Secundarstufe
+  # name: todo
+  dates: 2017 - Present
+  qualification: Secondary School
   description: | # this will include new lines to allow paragraphs
-     <mark>todo</mark> education section
+    <mark>Rudolf Steiner School Zürich</mark>
+
+    In addition to learning
+    the compulsory curriculum, the Steiner School emphasizes on
+    self-motivated learning. I am very happy to have been allowed to
+    attend these additional 3 years of my obligatory school here.
+
+- layout: left
+  # name: todo
+  dates: 2011 - 2017
+  qualification: Primary School
+  description: | # this will include new lines to allow paragraphs
+    <mark>Rudolf Steiner School Zürich</mark>
+
+    Given that my elderly siblings attended the Steiner School, it
+    was only natural for me to spend my obligatory school years there.

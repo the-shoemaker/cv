@@ -16,6 +16,10 @@ p.quote {
   padding: 0;
 }
 
+.quote strong {
+  display: block;
+}
+
 @media screen and (min-width: 767px) {
   p.quote {
     text-align: left;
