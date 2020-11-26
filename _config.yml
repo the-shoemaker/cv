@@ -1,10 +1,11 @@
 # Site
+darkmode: true
 repository: the-shoemaker/cv
 favicon: images/favicon.ico
 
 # Personal info
 name: Dan Schumacher
-title: Aspiring Full Stack Web Developer
+title: Aspiring Web Developer
 email: s.dan.jonas@gmail.com
 # website: www.the-shoemaker.ch
 
