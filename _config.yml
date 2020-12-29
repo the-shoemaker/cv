@@ -1,25 +1,21 @@
-# Site
-darkmode: true
+ # Site
 repository: the-shoemaker/cv
 favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
 
 # Personal info
 name: Dan Schumacher
 title: Aspiring Web Developer
 email: s.dan.jonas@gmail.com
-# website: www.the-shoemaker.ch
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
-# twitter_username: jekyll
 github_username: the-shoemaker
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: DanTheImageMan
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
@@ -42,26 +38,111 @@ about_content: | # this will include new lines to allow paragraphs
 
   I find the web a fascinating environment, which is why I am applying for a
   programming apprentice-ship at a web company.
-# Projects Section
-projects_title: Hobbies
 
-# Experience Section
-experience_title: Languages
+content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: left
+      # name: todo
+      caption: 2017 - Present
+      sub_title: Secondary School
+      description: | # this will include new lines to allow paragraphs
+        <mark>Rudolf Steiner School Zürich</mark>
 
-# Education Section
-# educaton_title: Education
+        In addition to learning
+        the compulsory curriculum, the Steiner School emphasizes on
+        self-motivated learning. I am very happy to have been allowed to
+        attend these additional 3 years of my obligatory school here.
 
-# More Section
-# more_title: When I'm Not Programming
-# more_content: | # this will include new lines to allow paragraphs
-#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#    - Rock climbing
-#    - Gaming
-#    - Knitting
-#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    - layout: left
+      # name: todo
+      caption: 2011 - 2017
+      sub_title: Primary School
+      description: | # this will include new lines to allow paragraphs
+        <mark>Rudolf Steiner School Zürich</mark>
+
+        Given that my elderly siblings attended the Steiner School, it
+        was only natural for me to spend my obligatory school years there.
+
+  - title: Languages # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        # company: <strong>todo</strong>
+        # job_title: German
+        # caption: <strong>todo</strong>
+        quote: >
+          <strong>German</strong>
+
+          native language
+        # description: | # this will include new lines to allow paragraphs
+      - layout: left
+        # company: <strong>todo</strong>
+        # job_title: English
+        # caption: <strong>todo</strong>
+        quote: >
+          <strong>English</strong>
+
+          Good oral and written communication skills.<br>9 years at school.
+        # description: | # this will include new lines to allow paragraphs
+      - layout: left
+        # company: <strong>todo</strong>
+        # job_title: French
+        # caption: <strong>todo</strong>
+        quote: >
+          <strong>French</strong>
+
+          Average oral and written communication skills.<br>9 years at school.
+
+        # description: | # this will include new lines to allow paragraphs
+
+  - title: Hobbies # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+    - layout: left
+      caption: <mark>Photography</mark>
+      # caption: 2011 - 2015
+      # link:
+      # github: sproogen/resume-theme
+      quote: >
+        Exploring the world with my Cannon EOS M10
+      description: | # this will include new lines to allow paragraphs
+        I love to capture the world aground me while taking long strolls
+        through the city and nature.
+
+        You can find some of these impressions on my Instagram account: [DanTheImageMan](https://www.instagram.com/DanTheImageMan)
+
+    - layout: left
+      caption: <mark>Cooking</mark>
+      # caption: 2011 - 2015
+      # link:
+      # github: sproogen/resume-theme
+      quote: >
+        Embracing the vegetarain life-style
+      description: | # this will include new lines to allow paragraphs
+        After becoming a vegetarain two years ago, I became interest in cooking.
+
+        I prepare a weekly supper for my family, and love to experiment with new
+        ingredients and recipes.
+
+    - layout: left
+      caption: <mark>DIY and Tinkering</mark>
+      # caption: 2011 - 2015
+      # link:
+      # github: sproogen/resume-theme
+      quote: >
+        Broken isn't a permanent state.<br>It's a challenge!
+      description: | # this will include new lines to allow paragraphs
+        I love to tinker and solder. Mostly small projects. When I find a broken device,
+        I find a new mission.
+
+        Screwdrivers and solder-iron are my definition of fun!
 
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
